@@ -12,13 +12,13 @@ Welcome to the SBSSG Squad Minecraft server repository! This repository contains
 
 4. **No cheating or hacking**: The use of cheats, hacks, or exploiting server glitches is strictly prohibited..
 
-5. **Follow staff instructions**: Always listen to and cooperate with the server staff. They are here to ensure a smooth and enjoyable experience for everyone.
-
 ## Commands
 
 Here are some essential commands you can use on the SBSSG Squad Minecraft server:
 
 - `/help`: Display a list of available commands.
+-`/spawn` : To get back to Spawn
+-`/tpa usernameyouwanttpedto` - Use this command to send a tp request.**Note for bedrock usernames , it shouble started with a . and the username shoud be entered in small letters**
 -
 
 Feel free to explore more commands as you play on the SBSSG Squad Minecraft server!
