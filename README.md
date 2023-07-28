@@ -14,13 +14,20 @@ Welcome to the SBSSG Squad Minecraft server repository! This repository contains
 
 ## Commands
 
-Here are some essential commands you can use on the SBSSG Squad Minecraft server:
+Here are some essential commands everyone in the server can use on the SBSSG Squad Minecraft server:
 
-- `/help`: Display a list of available commands.
--`/spawn` : To get back to Spawn
--`/tpa usernameyouwanttpedto` - Use this command to send a tp request.**Note for bedrock usernames , it shouble started with a . and the username shoud be entered in small letters**
--
-
+- `/help`: Display a list of available commands. 
+- `/spawn` : To get back to Spawn.
+- `/tpa usernameyouwanttpedto` - Use this command to send a tp request.**Note for bedrock usernames , it shouble started with a "." and the username shoud be entered in small letters**.
+- `/tpaccept` - Accepts teleport requests.
+- `/tpacancel` - Cancel all outstanding teleport requests.**Specify [player] to cancel requests with them**
+- `/tpahere` - Request that the specified player teleport to you.
+- `/afk` - Marks you as away-from-keyboard.
+- `/balance` - States the current money balance of a player.
+- `/balancetop` - Lists players by top balances.
+- `/sethome` - Set home to your current location.
+- `/home` - Teleport to your home.
+- `/motd` - View the Message Of The Day.
 Feel free to explore more commands as you play on the SBSSG Squad Minecraft server!
 
 Let's embark on an exciting Minecraft adventure together! Happy gaming!
